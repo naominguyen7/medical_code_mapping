@@ -1,1 +1,4 @@
 Klassifikationsdateien/
+.vscode/
+*.ipynb
+*.pyc
